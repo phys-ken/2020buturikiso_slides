@@ -1,7 +1,7 @@
 # 2020年度　物理基礎
 
 [授業のスライドはこちら](https://phys-ken.github.io/2020buturikiso_slides/export/#/)  
-  
+[Webページ版](https://phys-ken.github.io/2020buturikiso_slides/2020_wave.html)※ちょっとみづらい...
 
 
 ---
